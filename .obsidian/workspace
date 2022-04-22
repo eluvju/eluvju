@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "1d24ec2ac5a69b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7b3890a4fbb5d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Django.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0496b0521d3d9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "635058eb1e665a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17426b212dfcc436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd95fa632839b3cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ab64e71aecfff23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7f2b83a51024cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fc85719afc1e063",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Django.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a7b3890a4fbb5d5",
+  "lastOpenFiles": [
+    "Django.md"
+  ]
+}
