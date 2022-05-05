@@ -9,12 +9,6 @@
     <a href="https://discord.gg/r6WMs3M4">Discord</a>
   </p>
 
-  <p align="center">
-    <a href="https://www.paypal.com/donate?hosted_button_id=NUKBUYL6FHNVU">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Logo" width="auto" height="50" >
-  </a>
-  </p> 
-
 Please ```Follow for More Content``` this repository to increase the awareness of the project for others to use or add to.
 
 ## List of Projects
@@ -26,7 +20,7 @@ Please ```Follow for More Content``` this repository to increase the awareness o
 
 Project | Status | Features | Note
 ------|------|------|------
-<a href="https://github.com/eluvju/Whatsapp">Whatsapp Automate Func </a> | ```OnGoing``` | Create groups, Add contacts and other stuffs | Selenium
+<a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Automate Func </a> | ```OnGoing``` | Create groups, Add contacts and other stuffs | Selenium
 Dividend Yield Calc (Fii) | ```Null``` | Calc DY of every Fii on Brazil | Web scraping
 Sneaker Monitor (Nike) | ```Null``` | Restock Monitor and notify on whatsapp |
 
