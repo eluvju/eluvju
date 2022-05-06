@@ -20,7 +20,7 @@ Please ```Follow for More Content``` this repository to increase the awareness o
 
 Project | Status | Features | Note
 ------|------|------|------
-<a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | ```OnGoing``` | Solutions | Tournament
+<a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | ```OnGoing``` | Beecrowd Solutions | Tournament
 <a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | ```OnGoing``` | Create groups, Add contacts and other stuffs | Selenium
 
 
