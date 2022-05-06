@@ -20,9 +20,9 @@ Please ```Follow for More Content``` this repository to increase the awareness o
 
 Project | Status | Features | Note
 ------|------|------|------
+<a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | ```OnGoing``` | Solutions | Tournament
 <a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | ```OnGoing``` | Create groups, Add contacts and other stuffs | Selenium
-Dividend Yield Calc (Fii) | ```Null``` | Calc DY of every Fii on Brazil | Web scraping
-Sneaker Monitor (Nike) | ```Null``` | Restock Monitor and notify on whatsapp |
+
 
 ## C++ 
 
