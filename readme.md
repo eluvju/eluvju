@@ -12,16 +12,23 @@
 Please ```Follow for More Content``` this repository to increase the awareness of the project for others to use or add to.
 
 ## List of Projects
+* [Porfolio Web](#portfolio)
 * [Python](#python)
 * [C++](#c++)
 
+## Python 
+
+Project | Client | Niche
+------|------|------|------
+<a href="https://eluvju.github.io/mockup-clinic">Cortico Clinic </a> | Upwwork | Template/Mockup
+<a href="https://ellamaisbella.xyz">Ella mais Bella </a> | Ligia | E-Commerce Wordpress
 
 ## Python 
 
-Project | Status | Features | Note
+Project | Features | Note
 ------|------|------|------
-<a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | ```OnGoing``` | Beecrowd Solutions | Tournament
-<a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | ```OnGoing``` | Create groups, Add contacts and other stuffs | Selenium
+<a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | Beecrowd Solutions | Tournament
+<a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | Create groups, Add contacts and other stuffs | Selenium
 
 
 ## C++ 
