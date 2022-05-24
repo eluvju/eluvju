@@ -16,7 +16,7 @@ Please ```Follow for More Content``` this repository to increase the awareness o
 * [Python](#python)
 * [C++](#c++)
 
-## Python 
+## Portfolio 
 
 Project | Client | Niche
 ------|------|------
@@ -29,7 +29,7 @@ Project | Features | Note
 ------|------|------
 <a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | Beecrowd Solutions | Tournament
 <a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | Create groups, Add contacts and other stuffs | Selenium
-
+<a href="https://github.com/eluvju/Nike-monitor">Nike-Monitor </a> | Web Scraping Nike SNKRS, Notify On Telegram via BOT | BS4, Telegram API etc.
 
 ## C++ 
 
