@@ -15,8 +15,8 @@ Please ```Follow for More Content``` this repository to increase the awareness o
 
 Project | Client | Niche
 ------|------|------
-<a href="https://eluvju.github.io/mockup-clinic">Cortico Clinic </a> | Upwwork | Template/Mockup
-<a href="https://ellamaisbella.xyz">Ella mais Bella </a> | Ligia | E-Commerce Wordpress
+<a href="http://bool.countable.ca/S/">Cortico Clinic </a> | Willian Upwwork | Template/Mockup
+<a href="https://ellamaisbella.xyz">Ella mais Bella </a> | Brazil Ecommerce | E-Commerce Wordpress
 <a href="https://children.runtheshow.digital">ABA Therapy </a> | David UPWORK | Wordpress
 
 ## Python 
@@ -24,7 +24,7 @@ Project | Client | Niche
 Project | Features | Note
 ------|------|------
 <a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | Beecrowd Solutions | Tournament
-<a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | Create groups, Add contacts and other stuffs | Selenium
+<a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | Create groups, Add contacts, Remove Person | Selenium
 <a href="https://github.com/eluvju/Nike-monitor">Nike-Monitor </a> | Web Scraping Nike SNKRS, Notify On Telegram via BOT | BS4, Telegram API etc.
 <a href="https://github.com/eluvju/Credit-Card">Milhas Cartão de Crédito </a> | Data Science | Streamlit, Pandas and others..
 
