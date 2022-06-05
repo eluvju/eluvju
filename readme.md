@@ -6,19 +6,6 @@
 
 Please this repository ```Follow for More Content``` to increase the awareness of the project for others to use or add to.
 
-## List of Projects
-* [Porfolio Web](#portfolio)
-* [Python](#python)
-* [C++](#c++)
-
-## Portfolio 
-
-Project | Client | Niche
-------|------|------
-<a href="http://bool.countable.ca/S/">Cortico Clinic </a> | Willian Upwwork | Template/Mockup
-<a href="https://ellamaisbella.xyz">Ella mais Bella </a> | Brazil Ecommerce | E-Commerce Wordpress
-<a href="https://children.runtheshow.digital">ABA Therapy </a> | David UPWORK | Wordpress
-
 ## Python 
 
 Project | Features | Note
@@ -28,11 +15,6 @@ Project | Features | Note
 <a href="https://github.com/eluvju/Nike-monitor">Nike-Monitor </a> | Web Scraping Nike SNKRS, Notify On Telegram via BOT | BS4, Telegram API etc.
 <a href="https://github.com/eluvju/milhas">Milhas Cartão de Crédito </a> | Data Science | Streamlit, Pandas and others..
 
-## C++ 
-
-Project | Status | Note
-------|------|------
-<a href="https://github.com/eluvju/dattebayo">Ragnaruto Server </a> | ```Paused``` | Based on ragnarok, this is a custom server of Naruto
 
 
 
