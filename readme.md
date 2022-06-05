@@ -4,7 +4,7 @@
     <a href="https://discord.gg/r6WMs3M4">Discord</a>
   </p>
 
-Please ```Follow for More Content``` this repository to increase the awareness of the project for others to use or add to.
+Please this repository ```Follow for More Content``` to increase the awareness of the project for others to use or add to.
 
 ## List of Projects
 * [Porfolio Web](#portfolio)
