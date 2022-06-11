@@ -10,7 +10,7 @@ Please this repository ```Follow for More Content``` to increase the awareness o
 
 Project | Features | Note
 ------|------|------
-<a href="https://github.com/eluvju/beecrowd">Python Challengers </a> | Beecrowd Solutions | Tournament
+<a href="https://github.com/eluvju/beecrowd">Code Challengers Solutions </a> | Beecrowd Solutions | C / C++ / C# / Python / JAVA
 <a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | Create groups, Add contacts, Remove Person | Selenium
 <a href="https://github.com/eluvju/Nike-monitor">Nike-Monitor </a> | Web Scraping Nike SNKRS, Notify On Telegram via BOT | BS4, Telegram API etc.
 <a href="https://github.com/eluvju/milhas">Milhas Cartão de Crédito </a> | Data Science | Streamlit, Pandas and others..
